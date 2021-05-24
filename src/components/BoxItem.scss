@@ -48,3 +48,12 @@
     z-index: 1;
   }
 }
+
+@media screen and (min-width: 675px) {
+  .box {
+    padding: 5em;
+    p {
+      font-size: 5em;
+    }
+  }
+}
