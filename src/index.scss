@@ -33,3 +33,9 @@ body {
 }
 
 // NEED TO MAKE THIS RESPONSIVE FOR DESKTOP (BACKGROUND IMAGES)
+
+@media screen and (min-width: 675px) {
+  body {
+    background-size: 135%;
+  }
+}
