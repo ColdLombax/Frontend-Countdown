@@ -52,8 +52,12 @@
 @media screen and (min-width: 675px) {
   .box {
     padding: 5em;
+    width: 90%;
     p {
       font-size: 5em;
     }
+  }
+  .value-container {
+    padding: 1em;
   }
 }
